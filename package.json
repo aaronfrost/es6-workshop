@@ -15,18 +15,14 @@
     ]
   },
   "scripts": {
-    "test": "jest  --watch"
+    "test": "jest"
   },
   "jest": {
     "transform": {".*": "<rootDir>/node_modules/babel-jest"},
-    "testFileExtensions": [
-      "js"
-    ],
     "moduleFileExtensions": [
       "js",
       "json"
-    ],
-    "testPathPattern": "spec"
+    ]
   },
   "dependencies": {
     "lodash": "^4.17.4"
