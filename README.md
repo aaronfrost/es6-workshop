@@ -53,12 +53,13 @@ If you have any questions, [let me know](https://www.twitter.com/js_dev).
 If you use this workshop, please Pull Request this readme with a link to your event.
 
 ###Events
+
 [FluentConf 2015 - Axel Rauschmayer & Aaron Frost](http://fluentconf.com/javascript-html-2015/public/schedule/detail/38811)
 Framsieforum 19.05, Finn.no
 
 [SLC JS Learners April 2015 - Kent C. Dodds](https://youtu.be/_Pn32tTtbuQ)
 
-
+[Software Design & Development Conference 2017 - Tiberiu Covaci](http://sddconf.com/agenda/?p=4968)
 
 
 
