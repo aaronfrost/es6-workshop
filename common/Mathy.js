@@ -1,8 +1,8 @@
-function sqrt(num){
+export function sqrt(num){
   return Math.sqrt(num);
 }
 
-function square(num){
+export function square(num){
   return num * num;
 }
 

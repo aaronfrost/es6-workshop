@@ -18,7 +18,7 @@ By the time that the workshop is over, all of your tests will be passing.
 ###Clone the repo
 You will need to start by cloning this repo. From your terminal, type:
 ```
-git clone https://github.com/aaronfrost/es6-workshop.git && cd es6-workshop
+git clone https://github.com/tibor19/es6-workshop.git && cd es6-workshop
 ```
 
 ###Install Dependencies
@@ -53,12 +53,13 @@ If you have any questions, [let me know](https://www.twitter.com/js_dev).
 If you use this workshop, please Pull Request this readme with a link to your event.
 
 ###Events
+
 [FluentConf 2015 - Axel Rauschmayer & Aaron Frost](http://fluentconf.com/javascript-html-2015/public/schedule/detail/38811)
 Framsieforum 19.05, Finn.no
 
 [SLC JS Learners April 2015 - Kent C. Dodds](https://youtu.be/_Pn32tTtbuQ)
 
-
+[Software Design & Development Conference 2017 - Tiberiu Covaci](http://sddconf.com/agenda/?p=4968)
 
 
 
