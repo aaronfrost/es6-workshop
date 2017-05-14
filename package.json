@@ -2,14 +2,23 @@
   "name": "ES6-Workshop",
   "version": "0.0.1",
   "devDependencies": {
-    "babel-jest": "*",
-    "jest-cli": "*"
+    "babel-core": "^6.24.1",
+    "babel-jest": "^20.0.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2016": "^6.24.1",
+    "babel-preset-es2017": "^6.24.1",
+    "jest-cli": "^20.0.1"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest  --watch"
   },
   "jest": {
-    "scriptPreprocessor": "<rootDir>/node_modules/babel-jest",
+    "transform": {".*": "<rootDir>/node_modules/babel-jest"},
     "testFileExtensions": [
       "js"
     ],
@@ -17,9 +26,9 @@
       "js",
       "json"
     ],
-    "testDirectoryName": "spec"
+    "testPathPattern": "spec"
   },
   "dependencies": {
-    "lodash": "^3.6.0"
+    "lodash": "^4.17.4"
   }
 }
